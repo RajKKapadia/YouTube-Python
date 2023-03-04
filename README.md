@@ -7,4 +7,19 @@ Hey friends, this is a repository for my [YouTube channel](https://www.youtube.c
 You can learn different aspects of Python programming here.
 
 * Functions
-* Try Except
+* Try except
+* Operators
+    - Conditional
+    - Assignment
+    - Arithmatic
+* Data types
+* Loops
+    - For
+    - While
+* Collection of data
+    - List
+    - Tuple
+    - Set
+    - Dictionary
+* Conditional statements
+* Basic of FLask
